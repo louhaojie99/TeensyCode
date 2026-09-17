@@ -1,0 +1,30 @@
+{
+  "name": "teensy-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louhaojie99/TeensyCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/louhaojie99/TeensyCode/issues"
+  },
+  "homepage": "https://github.com/louhaojie99/TeensyCode#readme",
+  "dependencies": {
+    "ai": "^7.0.105",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.3",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}
